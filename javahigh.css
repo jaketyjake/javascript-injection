@@ -1,0 +1,44 @@
+.banner{
+    background-color:#489DF9; 
+    padding: 15px;
+    list-style-type: none;
+    box-sizing: border-box;
+    width: -webkit-fill-available;
+   
+    
+}
+    .banner ul{
+        list-style: none;
+        }
+        .banner ul li{
+            
+            color:white;
+            display: inline-block;
+            font-family: arial, sans-serif;
+            padding-left: 0px;
+            margin-right: 30px
+    }
+.logo{
+    font-size:35px;
+    margin-left:-10px;
+    font-weight:700;
+}
+ 
+.homeLi{
+    font-weight:700;
+    vertical-align: 5px;
+    font-size:20px;
+
+}
+.servicesLi{
+    font-weight:100;
+    vertical-align: 5px;
+    font-size:17px;
+}
+.maintainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    
+}
